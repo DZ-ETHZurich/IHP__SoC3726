@@ -8,7 +8,7 @@
   "sealring_x": 2500,
   "sealring_y": 2000,
   "repository": "https://github.com/DZ-ETHZurich/IHP__SoC3726.git",
-  "pdk_version": "2dcbf0761b18342baeb85b0f5a94e2bec22db496",
+  "pdk_version": "33fd51900e07260ad0044ae4af22dd15ed10c764",
   "process": "SG13CMOS5L",
   "dependencies": {},
   "tools": {},
