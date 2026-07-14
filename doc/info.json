@@ -1,0 +1,22 @@
+{
+  "name": "SoC3726",
+  "design_type": "M",
+  "technology": "IHP",
+  "unique_id": "3726",
+  "license": "Apache-2.0",
+  "trl": 0,
+  "sealring_x": 2500,
+  "sealring_y": 2000,
+  "repository": "https://github.com/DZ-ETHZurich/IHP__SoC3726.git",
+  "pdk_version": "2dcbf0761b18342baeb85b0f5a94e2bec22db496",
+  "process": "SG13CMOS5L",
+  "dependencies": {},
+  "tools": {},
+  "top_cell_name": "SoC3726",
+  "release": {
+    "version": "v.1.0.0",
+    "gds": "release/v.1.0.0/gds/SoC3726.gds.gz",
+    "netlist": "release/v.1.0.0/netlist/socconcroc_v2p0.spi",
+    "doc": "release/v.1.0.0/doc"
+  }
+}
